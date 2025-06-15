@@ -1,0 +1,9 @@
+I first created a form for text input and to submit information.
+I used my styles.css just to center my information to make it look cleaner. 
+I used the pokemon class and this. function to define the pokemon class and 
+data that I wanted to fetch from the API. 
+The render card function displays a card with the given pokemon information. 
+The async function fetches pokemon data by name. If the pokemon doesn't exist it returns
+an error message.
+The eventListener waits for the page to load and finds the respective areas on the page. 
+Fetch pokemon fetches the info from the API. 
